@@ -1,5 +1,7 @@
 <h1 align="center">Olá! Eu sou o Lucas 👋</h1>
-
+<p align="center">
+  <img src="https://i.imgur.com/85QQqyH.png" alt="Banner do perfil" width="800">
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Sempre+aprendendo!&center=true&width=380&height=45">
 </p>
