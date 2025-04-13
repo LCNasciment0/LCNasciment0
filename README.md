@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou o  👋</h1>
 <p align="center">
-  <img src="https://i.imgur.com/85QQqyH.png" alt="Banner do perfil" width="800">
+  <img src="https://i.imgur.com/85QQqyH.png" alt="Banner do perfil" width="900">
 </p>
 ---
 
