@@ -1,16 +1,41 @@
-## OlÁ, eu sou Lucas e seja muito bem vindo !
+<h1 align="center">Olá! Eu sou o Lucas 👋</h1>
 
-<!--
-**LCNasciment0/LCNasciment0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Sempre+aprendendo!&center=true&width=380&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-🔭 Atualmente estou trabalhando em comercio de tintas.
-- 🌱 Atualmente estou aprendendo programção, cursando ADS para me introduzir nesse mundo
-- 👯 Estou procurando colaborar em projetos para iniciantes
-- 🤔 Estou procurando ajuda com aprendizado
-- 💬 Pergunte-me sobre linguagens e carreira
-- 📫 Como entrar em contato comigo: 
-Whatsapp (24)992013111
-- ⚡ Curiosidade: estou muito empolgado com esse mundo de tecnologia.
--->
+### 🧑‍💻 Sobre mim
+
+- 🧱 Trabalho com comércio de tintas (Barreto Tintas 🦁)
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas (ADS)
+- 🤝 Em busca de participar de projetos com iniciantes
+- 🧠 Focado em aprender, colaborar e evoluir na programação
+- 💬 Pergunte sobre: linguagens, carreira, ou como começar
+- 📱 Contato: **WhatsApp**: (24) 99920-1311
+- ⚡ Curiosidade: Empolgadíssimo com esse universo tech!
+
+---
+
+### 🚀 Tecnologias e ferramentas
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LCNasciment0&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCNasciment0&layout=compact&theme=tokyonight" height="165">
+</p>
+
+---
+
+### 💡 Curiosidade
+> "Transformar o que era hobby em profissão é um dos meus maiores objetivos!" 🚀
